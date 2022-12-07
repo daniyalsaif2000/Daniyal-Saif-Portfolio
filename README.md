@@ -1,5 +1,5 @@
 # Daniyal-Saif-Portfolio
-### Hi there! Get to know me better by viewing the work I do, here you can find my publications related to customer insights, product growth, data strategy and automated functionalities. ashdjabdasbujd
+### Hi there! Get to know me better by viewing the work I do, here you can find my publications related to customer insights, product growth, data strategy and automated functionalities. HIII DANIYAL
 
 # Covid 19 impact on learning patterns and individual growth
 *Gathered Data with data mining techniques and contributed in understanding individual behviour during covid 19 tenure.
